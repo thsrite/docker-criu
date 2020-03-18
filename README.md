@@ -30,7 +30,7 @@ Pip 9.0.1
 
 Docker swarm集群：
 
-manager节点ubuntu百度云：链接:https://pan.baidu.com/s/14VUmVpeCK6vvqBfZ2lbj0A  密码:uy2d  使用使用 cat x* | tar xzvf - 解压
+manager节点ubuntu百度云：链接：https://pan.baidu.com/s/1qiTzX9OyQSrzLuwd0RYVlA 提取码：mn6m  使用使用 cat x* | tar xzvf - 解压
 
 10.211.55.13 manager
 
